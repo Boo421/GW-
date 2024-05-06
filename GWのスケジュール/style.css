@@ -1,0 +1,47 @@
+.headline{
+    border: 3px red solid;
+    border-radius: 5px;
+    margin-bottom: 1px;
+}
+.headline h1{
+    text-align: center;
+    background: rgb(227, 247, 247) ;
+}
+.headline h5{
+    text-align: right;
+    margin-right: 50px;
+    color: #ba81cb;
+}
+
+.day1 {
+    border: 3px rgb(48, 163, 195) solid;
+    border-radius: 5px;
+    margin-bottom: 1px;
+}
+
+.day1 span {
+    color: red;
+}
+
+.day1 ul ol {
+    padding: 0;
+    position: relative;
+}
+
+.day1 li {
+    color: black;
+    border-left: solid 10px #c348d9;
+    background: lavender;
+    margin-bottom: 3px;
+    line-height: 1.5;
+    border-radius: 0 15px 15px 0;
+    padding: 0.5em;
+    list-style-type: none !important;
+}
+
+.day2 {
+    border: 3px orange solid;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
